@@ -12,8 +12,8 @@
 
 ### Backup Your Data
 
-<span style="color:orangered">Doing a fresh Windows installation will remove
-everything on your computer!</span>
+> [!CAUTION]
+> Doing a fresh Windows installation will remove everything on your computer!
 
 Before starting, back up all important data to an external drive, cloud storage,
 or another computer.
