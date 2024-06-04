@@ -6,7 +6,7 @@
 
 ## GitHub
 
-- [Markdown Formatting](./GitHub/Markdown.md)
+- [Markdown Formatting](./GitHub/Markdown Examples)
 
 ## Windows
 
