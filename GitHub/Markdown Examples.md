@@ -20,8 +20,6 @@
 
 # Text Styling
 
----
-
 ### Syntax:
 
 ```
@@ -61,8 +59,6 @@ This is a <sup>superscript</sup> text
 
 # Text Quoting
 
----
-
 ### Syntax:
 
 ```
@@ -79,8 +75,6 @@ Text that is not a quote
 
 # Code Quoting
 
----
-
 ### Syntax:
 
 <pre>
@@ -92,8 +86,6 @@ A line of text with quoted `code` in it.
 A line of text with quoted `code` in it.
 
 # Code Blocks
-
----
 
 ### Syntax:
 
@@ -120,8 +112,6 @@ public class Main {
 ```
 
 # Alerts
-
----
 
 ### Syntax:
 
