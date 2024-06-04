@@ -1,7 +1,5 @@
 # Headings
 
----
-
 ### Syntax:
 
 ```
