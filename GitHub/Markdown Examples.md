@@ -109,7 +109,7 @@ public class Main {
 }
 ```
 
-# Alerts
+# Admonitions
 
 ### Syntax:
 
