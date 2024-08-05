@@ -1,6 +1,6 @@
 # Headings
 
-### Syntax:
+## Syntax:
 
 ```
 # A first-level heading
@@ -8,7 +8,7 @@
 ### A third-level heading
 ```
 
-### Rendered:
+## Rendered:
 
 # A first-level heading
 
@@ -18,7 +18,7 @@
 
 # Text Styling
 
-### Syntax:
+## Syntax:
 
 ```
 **Bold text**
@@ -33,7 +33,7 @@ This is a <sub>subscript</sub> text
 This is a <sup>superscript</sup> text
 ```
 
-### Rendered:
+## Rendered:
 
 **Bold text**
 
@@ -57,7 +57,7 @@ This is a <sup>superscript</sup> text
 
 # Text Quoting
 
-### Syntax:
+## Syntax:
 
 ```
 Text that is not a quote
@@ -65,7 +65,7 @@ Text that is not a quote
 > Text that is a quote
 ```
 
-### Rendered:
+## Rendered:
 
 Text that is not a quote
 
@@ -73,19 +73,19 @@ Text that is not a quote
 
 # Code Quoting
 
-### Syntax:
+## Syntax:
 
 <pre>
 A line of text with quoted `code` in it.
 </pre>
 
-### Rendered:
+## Rendered:
 
 A line of text with quoted `code` in it.
 
 # Code Blocks
 
-### Syntax:
+## Syntax:
 
 <pre>
 ```java
@@ -98,7 +98,7 @@ A line of text with quoted `code` in it.
 ```
 </pre>
 
-### Rendered:
+## Rendered:
 
 ```java
 // A Java code-block!
@@ -111,7 +111,7 @@ public class Main {
 
 # Admonitions
 
-### Syntax:
+## Syntax:
 
 ```
 > [!NOTE]
@@ -130,7 +130,7 @@ public class Main {
 > Advises about risks or negative outcomes of certain actions.
 ```
 
-### Rendered:
+## Rendered:
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
